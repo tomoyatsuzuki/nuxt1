@@ -2,6 +2,7 @@
   <div class="container">
     <div>
       <h1 class="title">
+        <nuxt-link to="/">Home</nuxt-link>
         ログインページ
       </h1>
       <!-- <p>{{ $store.getters.isLogin ? 'ログイン中' : 'ログアウト中' }}</p>
