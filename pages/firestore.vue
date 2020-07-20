@@ -2,7 +2,7 @@
   <div class="container">
     <nuxt-link to="/">Home</nuxt-link>
     <h1>Firestore の練習</h1>
-    <h2>async await を使って非同期処理を実行</h2>
+    <h2>async await を使って非同期処理を実行!</h2>
     <h4>Firestore SDK を使ってコレクション>ドキュメント>フィールドからデータを追加・取得
     </h4>
     <div>
